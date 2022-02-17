@@ -1,0 +1,4 @@
+.player__body {
+    display: flex; 
+}
+/* by default flex is row */
